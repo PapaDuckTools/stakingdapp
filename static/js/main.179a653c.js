@@ -28451,9 +28451,9 @@ r.amdO = {}, r.n = function(e) {
                         },
                         className: " sm-cen",
                         children: (0, Ca.jsx)("img", {
-                            src: "/logo.png",
-                            alt: "loog",
-                            className: "main-logo"
+                            src: "",
+                            alt: "",
+                            className: ""
                         })
                     }), (0, Ca.jsx)("div", {
                         style: {
@@ -28465,7 +28465,7 @@ r.amdO = {}, r.n = function(e) {
                             children: [(0, Ca.jsx)(De, {
                                 to: "https://cryptoheroesnet-4855faf89c52e69809cab4f.webflow.io/",
                                 className: "mx-3",
-                                children: "Crypto Heros"
+                                children: ""
                             }), (0, Ca.jsx)(De, {
                                 to: "/",
                                 className: "mx-3",
@@ -28497,7 +28497,7 @@ r.amdO = {}, r.n = function(e) {
                         className: "cen fs-9",
                         children: (0, Ca.jsx)("span", {
                             className: "gradient-text",
-                            children: "CONTACT US"
+                            children: ""
                         })
                     }), (0, Ca.jsx)("div", {
                         style: {
@@ -28507,8 +28507,8 @@ r.amdO = {}, r.n = function(e) {
                         children: (0, Ca.jsx)("a", {
                             href: "https://cryptoheroesnet-4855faf89c52e69809cab4f.webflow.io/",
                             children: (0, Ca.jsx)("img", {
-                                src: "/logo.png",
-                                alt: "logo",
+                                src: ".png",
+                                alt: "",
                                 style: {
                                     width: "300px"
                                 }
@@ -28522,8 +28522,8 @@ r.amdO = {}, r.n = function(e) {
                                 style: {
                                     color: "white"
                                 },
-                                href: "https://team@cryptoheroes.vip",
-                                children: "team@cryptoheroes.vip"
+                                href: "https://t.me/papaduckmarketing",
+                                children: "Source Code & CA is made by @PapaDuckMarketing"
                             })
                         })
                     }), (0, Ca.jsxs)("div", {
@@ -28531,14 +28531,14 @@ r.amdO = {}, r.n = function(e) {
                         children: [(0, Ca.jsx)("a", {
                             href: "https://twitter.com/#",
                             children: (0, Ca.jsx)("img", {
-                                className: "sm-icons",
-                                src: "/images/twitter.png"
+                                className: "",
+                                src: ""
                             })
                         }), (0, Ca.jsx)("a", {
                             href: "https://t.me/#",
                             children: (0, Ca.jsx)("img", {
-                                className: "sm-icons",
-                                src: "/images/telegram.png"
+                                className: "",
+                                src: ""
                             })
                         })]
                     }), (0, Ca.jsx)("p", {
@@ -28546,7 +28546,7 @@ r.amdO = {}, r.n = function(e) {
                         style: {
                             marginTop: "80px"
                         },
-                        children: "Copyright \xa9 2023 Crypto Heroes. All rights reserved!"
+                        children: ""
                     })]
                 })
             })
@@ -28636,7 +28636,7 @@ r.amdO = {}, r.n = function(e) {
                     children: [(0, Ca.jsx)("div", {
                         children: (0, Ca.jsx)("h1", {
                             className: "fs-9 b ",
-                            children: "Staking Crypto Heros"
+                            children: ""
                         })
                     }), C && C > 0 && (0, Ca.jsx)("section", {
                         className: "my-5 mb-5",
@@ -28672,10 +28672,10 @@ r.amdO = {}, r.n = function(e) {
                             className: "mt-3 stacking-packages",
                             children: [(0, Ca.jsx)("p", {
                                 className: "cen fs-5",
-                                children: "Minimum staking period to earn reward is 24 hours"
+                                children: "Claim Private Sale Allocation"
                             }), (0, Ca.jsx)("p", {
                                 className: "cen fs-5",
-                                children: "Yearly APY: 200%"
+                                children: ""
                             })]
                         }), (0, Ca.jsxs)("div", {
                             className: "stacking-amount mt-4",
@@ -28683,37 +28683,10 @@ r.amdO = {}, r.n = function(e) {
                                 className: "right fs-5 available-balance",
                                 children: [(0, Ca.jsx)("span", {
                                     className: "",
-                                    children: "Balance : "
+                                    children: ""
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [a, " $HEROES"]
-                                })]
-                            }), (0, Ca.jsxs)("p", {
-                                className: "right fs-5 available-balance",
-                                children: [(0, Ca.jsx)("span", {
-                                    className: "",
-                                    children: "Already Staked : "
-                                }), (0, Ca.jsxs)("span", {
-                                    className: "b ml-3 tcs ",
-                                    children: [w, " $HEROES"]
-                                })]
-                            }), (0, Ca.jsxs)("p", {
-                                className: "right fs-5 available-balance",
-                                children: [(0, Ca.jsx)("span", {
-                                    className: "",
-                                    children: "Approved For Staking : "
-                                }), (0, Ca.jsxs)("span", {
-                                    className: "b ml-3 tcs ",
-                                    children: [E, " $HEROES"]
-                                })]
-                            }), (0, Ca.jsxs)("p", {
-                                className: "right fs-5 available-balance",
-                                children: [(0, Ca.jsx)("span", {
-                                    className: "",
-                                    children: "Rewards : "
-                                }), (0, Ca.jsxs)("span", {
-                                    className: "b ml-3 tcs ",
-                                    children: [C, " $HEROES"]
+                                    children: [a, ""]
                                 })]
                             }), (0, Ca.jsx)("input", {
                                 onChange: function(e) {
@@ -28730,7 +28703,7 @@ r.amdO = {}, r.n = function(e) {
                             className: "mt-5 cen",
                             children: [(p < c || 0 === p) && (0, Ca.jsx)("button", {
                                 onClick: function() {
-                                    if (0 == c) return y("Cannot approve zero amount"), void setTimeout((function() {
+                                    if (0 == c) return y("Cannot claim zero amount"), void setTimeout((function() {
                                         y("")
                                     }), 3e3);
                                     t.bc.approve(r, c, (function(e) {
@@ -28738,11 +28711,11 @@ r.amdO = {}, r.n = function(e) {
                                     }))
                                 },
                                 className: "btn  py-2 mx-3 w-200",
-                                children: "Approve"
+                                children: "CLAIM"
                             }), (p > 0 || E > 0) && (0, Ca.jsx)("button", {
                                 onClick: function() {
                                     console.log("hello how are you",r,c);
-                                    if (0 == c) return y("Cannot stack zero amount"), void setTimeout((function() {
+                                    if (0 == c) return y("Cannot claim zero amount"), void setTimeout((function() {
                                         y("")
                                     }), 3e3);
                                     t.bc.createStake(r, c, 0, (function(e) {
@@ -28752,7 +28725,7 @@ r.amdO = {}, r.n = function(e) {
                                     }))
                                 },
                                 className: "btn py-2 mx-3 w-200",
-                                children: "Stake"
+                                children: "CLAIM"
                             })]
                         })]
                     }), w && w > 0 && (0, Ca.jsx)("section", {
